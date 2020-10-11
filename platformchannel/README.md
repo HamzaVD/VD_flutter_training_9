@@ -1,16 +1,13 @@
-# platformchannel
+# VD_flutter_training_9
 
-A new Flutter project.
+## Platformchannel
 
-## Getting Started
+This app demonstrates usage of platform channel to commnicate platform specific code and perform a platform specific feature. We are going to vibrate an Android device using platform channels in this example.
 
-This project is a starting point for a Flutter application.
+# Screenshot
 
-A few resources to get you started if this is your first Flutter project:
+![](images/image_1.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Note:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This works only on Android only. Please use a real device instead of an emulator to observe vibration. 
